@@ -94,4 +94,6 @@ Once the model is trained, you can generate the 3D shape by running
 python reconstruct_svr_reg.py -e experiments/chairs_svr_reg/
 ```
 
+## Contact
 
+If you have any questions, please contact Yue Zhong: <zysyly@163.com>
